@@ -1,3 +1,4 @@
 # finalproj-movieclub
 final project c++
-Basic programming. Working with classes and objects, reading txt files, storing data and developing a functionality.
+Developed an application that manages the functionality of a movie club. Deals with different classes to store data and with time to check for availability.
+The final application is uploaded in a an .exe file.
